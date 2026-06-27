@@ -26,7 +26,7 @@ Bu layihədə Cisco IOS üzərində müxtəlif müəssisə şəbəkəsi ssenaril
 ![Topology](topology.png)
 ## Layihənin PDF versiyası
 
-📄 **CCNA-Lab-Portfolio.pdf**
+📄 [CCNA Lab Portfolio](CCNA-Lab-Portfolio.pdf)
 
 Repository-də yerləşən PDF faylında bütün laboratoriya addımları və konfiqurasiyalar mövcuddur.
 
