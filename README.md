@@ -21,7 +21,9 @@ Bu layihədə Cisco IOS üzərində müxtəlif müəssisə şəbəkəsi ssenaril
 - Port Security
 - EIGRP
 - ACL
+## Şəbəkə Topologiyası
 
+![Topology](topology.png)
 ## Layihənin PDF versiyası
 
 📄 **CCNA-Lab-Portfolio.pdf**
